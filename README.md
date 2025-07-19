@@ -17,4 +17,4 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # 2. run
-python crypto_trading_bot.py
+python rh_crypto_bot.py
