@@ -1,4 +1,4 @@
-# Robinhood_Crypto_Bot
+# Robinhood_Crypto_DCA_Bot
 
 Automated DCA / take‑profit crypto trader for the Robinhood Crypto API.
 
